@@ -118,4 +118,7 @@ const Chat = () => {
   );
 };
 
+/*kubra dursun
+
+ */
 export default Chat;
